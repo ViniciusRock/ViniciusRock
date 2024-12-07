@@ -1,7 +1,4 @@
 ## Olá, me chamo Vinicius Rocha👋
-## Programador C++ e Python.
-## Cursando Redes de Computadores UniSenac
-
 <div style="display: inline_block;">
   <a href="https://github.com/ViniciusRock">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusRock&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRock&layout=compact&langs_coun[](..\..\..\ViniciusRock)t=7&theme=dracula"><br>!-->
